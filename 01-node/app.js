@@ -1,1 +1,1 @@
-require("./07-mind-grenade");
+console.log("Hello World!");

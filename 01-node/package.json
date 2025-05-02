@@ -4,7 +4,8 @@
   "description": "Browser:\r - DOM\r - Window\r - Interactive apps\r - No FileSystem\r - Fragmentation",
   "main": "01-node_name.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch app.js"
   },
   "keywords": [],
   "author": "",
